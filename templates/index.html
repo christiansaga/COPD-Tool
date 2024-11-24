@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COPD Admission Predictor</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0fff0; /* Light greenish background */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+
+        .header {
+            background-color: #4caf50;
+            color: white;
+            padding: 30px;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: bold;
+        }
+
+        .result-section {
+            padding: 20px;
+            text-align: center;
+            background-color: #e8f5e9; /* Subtle green for result section */
+            border-bottom: 2px solid #4caf50;
+        }
+
+        .result-section h2 {
+            color: #2e7d32; /* Darker green */
+            margin-bottom: 15px;
+            font-size: 1.8rem;
+        }
+
+        .result-section p {
+            font-size: 1.3rem;
+            color: #333;
+            font-weight: bold;
+        }
+
+        .form-section {
+            padding: 30px;
+        }
+
+        .form-section label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #4caf50;
+        }
+
+        .form-section input,
+        .form-section select,
+        .form-section button {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 1rem;
+            box-sizing: border-box;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .form-section input:focus,
+        .form-section select:focus {
+            border-color: #4caf50;
+        }
+
+        .form-section button {
+            background-color: #4caf50;
+            color: white;
+            font-size: 1.2rem;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .form-section button:hover {
+            background-color: #45a049;
+        }
+
+        .footer {
+            text-align: center;
+            margin: 20px 0;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .footer a {
+            color: #4caf50;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            COPD Admission Predictor
+        </div>
+
+        <!-- Prediction Results Section -->
+        {% if prediction_text or severity_text %}
+        <div class="result-section">
+            <h2>Prediction Results</h2>
+            <p>{{ prediction_text }}</p>
+            <p>{{ severity_text }}</p>
+        </div>
+        {% endif %}
+
+        <!-- Form Section -->
+        <form action="/predict" method="post" class="form-section">
+            <label for="Shortness_of_Breath">Shortness of Breath (1-10):</label>
+            <input type="number" id="Shortness_of_Breath" name="Shortness_of_Breath" min="1" max="10" required>
+
+            <label for="Cough_Intensity">Cough Intensity (1-10):</label>
+            <input type="number" id="Cough_Intensity" name="Cough_Intensity" min="1" max="10" required>
+
+            <label for="Chest_Tightness">Chest Tightness (1-10):</label>
+            <input type="number" id="Chest_Tightness" name="Chest_Tightness" min="1" max="10" required>
+
+            <label for="Wheezing">Wheezing (1-10):</label>
+            <input type="number" id="Wheezing" name="Wheezing" min="1" max="10" required>
+
+            <label for="Fatigue">Fatigue (1-10):</label>
+            <input type="number" id="Fatigue" name="Fatigue" min="1" max="10" required>
+
+            <label for="Age">Age:</label>
+            <input type="number" id="Age" name="Age" min="1" required>
+
+            <label for="Respiratory_Rate">Respiratory Rate:</label>
+            <input type="number" id="Respiratory_Rate" name="Respiratory_Rate" required>
+
+            <label for="Smoking_History">Smoking History:</label>
+            <select id="Smoking_History" name="Smoking_History" required>
+                <option value="2">Current Smoker</option>
+                <option value="1">Former Smoker</option>
+                <option value="0">Never Smoked</option>
+            </select>
+
+            <label for="Comorbidities">Comorbidities:</label>
+            <select id="Comorbidities" name="Comorbidities" required>
+                <option value="0">Neither</option>
+                <option value="1">Diabetes</option>
+                <option value="2">Heart Disease</option>
+                <option value="3">Both</option>
+            </select>
+
+            <label for="Mucus_Color">Mucus Color:</label>
+            <select id="Mucus_Color" name="Mucus_Color" required>
+                <option value="0">Clear/White</option>
+                <option value="1">Yellow/Green</option>
+                <option value="2">Brown/Black</option>
+                <option value="3">Red/Pink</option>
+            </select>
+
+            <label for="Mucus_Amount">Mucus Amount (1-10):</label>
+            <input type="number" id="Mucus_Amount" name="Mucus_Amount" min="1" max="10" required>
+
+            <label for="Fever_Last_2_Weeks">Fever in Last 2 Weeks:</label>
+            <select id="Fever_Last_2_Weeks" name="Fever_Last_2_Weeks" required>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select>
+
+            <button type="submit">Get Prediction</button>
+        </form>
+
+        {% if error_text %}
+        <div class="result-section">
+            <h2>Error:</h2>
+            <p>{{ error_text }}</p>
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 COPD Predictor. Created with ❤️ by <a href="https://github.com/your-repo" target="_blank">Your Team</a></p>
+    </div>
+</body>
+</html>
