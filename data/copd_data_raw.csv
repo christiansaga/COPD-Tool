@@ -1,0 +1,1001 @@
+Shortness_of_Breath,Cough_Intensity,Chest_Tightness,Wheezing,Fatigue,Age,Smoking_History,Comorbidities,Mucus_Amount,Mucus_Color,Fever_Last_2_Weeks,Respiratory_Rate,Hospital_Admission
+7,1,10,8,2,71,Former Smoker,Heart Disease,1,Yellow/Green,0,40,1
+4,8,6,9,5,70,Never Smoked,Both,3,Brown/Black,1,15,1
+8,4,7,6,2,76,Former Smoker,Neither,9,Clear/White,0,7,0
+5,4,9,5,4,43,Current Smoker,Neither,6,Clear/White,0,8,0
+7,5,1,6,6,45,Never Smoked,Both,8,Brown/Black,0,20,0
+10,8,7,2,10,88,Former Smoker,Neither,7,Clear/White,0,20,0
+3,5,8,4,9,61,Never Smoked,Neither,8,Clear/White,0,16,0
+7,8,3,3,4,51,Former Smoker,Both,7,Yellow/Green,1,16,1
+8,10,4,7,8,79,Current Smoker,Neither,1,Brown/Black,0,7,1
+5,1,10,9,7,53,Former Smoker,Diabetes,6,Clear/White,0,18,1
+4,10,6,5,6,44,Never Smoked,Diabetes,1,Red/Pink,0,18,0
+8,9,10,6,8,49,Never Smoked,Heart Disease,10,Yellow/Green,0,9,1
+8,6,7,10,4,94,Never Smoked,Neither,1,Clear/White,1,8,0
+3,3,4,2,1,87,Never Smoked,Heart Disease,3,Red/Pink,0,8,0
+6,8,8,3,9,60,Current Smoker,Diabetes,0,Clear/White,0,8,1
+5,9,5,3,3,26,Former Smoker,Diabetes,4,Clear/White,0,20,0
+2,6,1,9,8,46,Current Smoker,Diabetes,5,Yellow/Green,0,10,1
+8,7,4,7,4,40,Current Smoker,Neither,8,Clear/White,0,12,0
+6,1,3,8,3,42,Current Smoker,Neither,9,Clear/White,0,10,0
+2,5,9,10,1,93,Never Smoked,Diabetes,7,Clear/White,0,38,0
+5,5,8,9,6,78,Never Smoked,Heart Disease,1,Clear/White,1,33,0
+1,10,1,6,6,54,Never Smoked,Heart Disease,0,Brown/Black,0,11,0
+10,4,6,4,5,69,Former Smoker,Both,1,Yellow/Green,1,13,1
+6,6,9,1,5,43,Never Smoked,Diabetes,6,Red/Pink,1,11,0
+9,7,7,8,1,58,Former Smoker,Heart Disease,3,Clear/White,0,17,1
+1,9,4,7,10,37,Never Smoked,Diabetes,9,Clear/White,0,6,0
+10,1,1,2,5,67,Never Smoked,Heart Disease,4,Clear/White,0,23,0
+3,6,2,8,4,86,Current Smoker,Both,6,Clear/White,0,18,1
+7,7,5,5,9,46,Current Smoker,Both,2,Clear/White,1,35,1
+4,3,5,7,5,76,Current Smoker,Diabetes,9,Yellow/Green,0,9,1
+9,8,8,4,4,76,Former Smoker,Heart Disease,1,Brown/Black,0,30,1
+3,5,6,5,3,60,Former Smoker,Neither,6,Red/Pink,0,29,0
+5,9,8,8,3,97,Never Smoked,Both,4,Clear/White,0,9,0
+3,5,2,1,4,43,Former Smoker,Diabetes,0,Brown/Black,0,15,0
+7,9,3,1,5,62,Never Smoked,Diabetes,0,Clear/White,1,10,0
+5,10,6,4,1,94,Former Smoker,Heart Disease,8,Clear/White,0,12,1
+9,4,10,3,4,81,Former Smoker,Diabetes,4,Brown/Black,1,12,1
+7,9,3,10,8,44,Former Smoker,Both,0,Yellow/Green,0,19,1
+2,5,6,2,2,33,Current Smoker,Diabetes,6,Clear/White,0,15,0
+4,10,6,3,7,56,Former Smoker,Diabetes,8,Clear/White,0,38,1
+9,9,2,1,3,28,Current Smoker,Neither,10,Clear/White,0,9,0
+2,3,7,1,7,74,Current Smoker,Neither,0,Yellow/Green,0,39,0
+10,4,2,6,10,29,Former Smoker,Both,9,Clear/White,1,11,1
+9,9,6,5,4,44,Never Smoked,Heart Disease,3,Red/Pink,1,28,1
+10,10,1,8,8,99,Never Smoked,Neither,2,Clear/White,0,14,0
+5,6,3,2,9,61,Never Smoked,Heart Disease,4,Clear/White,0,9,0
+2,2,2,4,7,46,Former Smoker,Both,6,Clear/White,0,33,0
+4,7,7,8,7,82,Never Smoked,Neither,7,Yellow/Green,1,13,0
+7,2,4,6,7,92,Current Smoker,Heart Disease,1,Clear/White,0,22,0
+8,2,8,1,4,68,Never Smoked,Neither,6,Yellow/Green,1,19,0
+3,1,6,4,10,58,Former Smoker,Both,0,Brown/Black,0,17,1
+1,3,10,1,1,66,Never Smoked,Both,6,Brown/Black,0,17,0
+4,6,4,2,2,33,Current Smoker,Neither,7,Brown/Black,1,26,0
+2,8,5,5,10,31,Former Smoker,Heart Disease,1,Brown/Black,0,8,0
+8,9,9,8,7,92,Never Smoked,Diabetes,8,Yellow/Green,0,23,1
+4,7,7,8,1,43,Former Smoker,Diabetes,0,Brown/Black,0,35,1
+2,4,10,3,1,55,Former Smoker,Neither,5,Clear/White,0,7,0
+6,6,9,4,5,59,Former Smoker,Heart Disease,0,Clear/White,0,9,0
+6,5,7,10,9,81,Never Smoked,Diabetes,2,Clear/White,0,25,0
+10,8,1,6,6,85,Former Smoker,Both,10,Clear/White,1,16,1
+4,1,8,10,3,55,Never Smoked,Heart Disease,5,Clear/White,0,15,0
+6,1,4,3,5,77,Current Smoker,Diabetes,2,Red/Pink,1,9,1
+2,6,3,2,7,56,Never Smoked,Heart Disease,7,Clear/White,0,18,0
+10,10,7,6,8,90,Current Smoker,Neither,4,Clear/White,0,9,1
+2,2,3,5,9,83,Never Smoked,Heart Disease,1,Yellow/Green,0,17,0
+10,5,8,10,6,34,Former Smoker,Diabetes,3,Clear/White,0,28,0
+4,1,6,5,5,26,Never Smoked,Neither,8,Clear/White,0,12,0
+8,7,5,10,10,90,Former Smoker,Heart Disease,3,Clear/White,1,17,1
+7,1,4,5,9,84,Current Smoker,Both,9,Clear/White,0,40,1
+9,4,8,10,1,41,Never Smoked,Diabetes,9,Clear/White,0,24,0
+8,9,8,5,7,40,Former Smoker,Neither,7,Yellow/Green,0,32,1
+5,1,1,3,5,40,Current Smoker,Heart Disease,4,Yellow/Green,1,15,0
+2,4,9,7,3,70,Current Smoker,Both,10,Clear/White,1,28,1
+5,6,5,6,6,63,Never Smoked,Diabetes,10,Clear/White,0,6,0
+8,6,4,4,3,55,Current Smoker,Both,9,Clear/White,0,8,1
+10,8,6,2,5,25,Former Smoker,Heart Disease,0,Yellow/Green,0,10,0
+9,1,6,9,9,35,Current Smoker,Heart Disease,6,Clear/White,0,15,1
+9,7,2,1,6,28,Current Smoker,Neither,2,Clear/White,0,32,0
+1,1,8,4,7,95,Former Smoker,Both,9,Yellow/Green,0,14,1
+9,7,7,1,3,50,Current Smoker,Neither,7,Clear/White,0,22,0
+7,3,1,6,9,74,Current Smoker,Diabetes,2,Clear/White,0,25,0
+9,8,5,4,10,36,Current Smoker,Neither,0,Clear/White,0,20,0
+8,3,6,5,7,99,Current Smoker,Diabetes,4,Brown/Black,1,14,1
+1,1,4,5,2,89,Former Smoker,Heart Disease,1,Brown/Black,1,19,0
+8,8,2,9,7,71,Current Smoker,Heart Disease,10,Yellow/Green,0,14,1
+8,3,4,1,6,77,Former Smoker,Both,3,Clear/White,0,8,0
+3,2,1,2,4,95,Current Smoker,Diabetes,0,Yellow/Green,0,40,0
+1,1,7,6,8,26,Current Smoker,Heart Disease,8,Red/Pink,0,9,1
+8,3,2,5,8,48,Current Smoker,Both,5,Red/Pink,1,7,1
+3,2,2,7,3,28,Current Smoker,Both,7,Clear/White,0,34,0
+3,2,9,3,1,43,Former Smoker,Neither,10,Brown/Black,1,13,0
+1,6,5,3,10,50,Former Smoker,Both,3,Clear/White,1,22,1
+5,1,2,10,3,99,Former Smoker,Heart Disease,8,Clear/White,0,13,0
+10,2,9,2,10,64,Never Smoked,Neither,1,Yellow/Green,0,15,0
+7,6,9,3,2,74,Current Smoker,Diabetes,8,Clear/White,0,12,1
+10,3,1,10,5,67,Current Smoker,Diabetes,4,Brown/Black,0,14,1
+9,4,3,1,4,99,Former Smoker,Heart Disease,5,Clear/White,0,15,0
+7,1,4,5,2,91,Never Smoked,Heart Disease,2,Yellow/Green,0,26,0
+9,8,7,5,3,36,Current Smoker,Neither,3,Brown/Black,1,18,1
+8,7,10,7,10,91,Former Smoker,Neither,5,Brown/Black,0,37,1
+2,7,4,4,9,51,Current Smoker,Heart Disease,6,Clear/White,0,7,1
+1,3,2,3,9,78,Current Smoker,Heart Disease,0,Clear/White,0,18,0
+7,10,7,1,6,90,Former Smoker,Diabetes,6,Yellow/Green,0,20,1
+7,10,6,8,3,73,Former Smoker,Diabetes,0,Clear/White,0,36,1
+8,3,3,3,8,40,Current Smoker,Diabetes,4,Red/Pink,1,7,1
+5,2,6,2,10,26,Current Smoker,Heart Disease,5,Brown/Black,0,19,1
+3,1,6,4,8,84,Former Smoker,Both,1,Clear/White,0,33,0
+8,7,5,3,3,78,Current Smoker,Heart Disease,9,Clear/White,0,11,1
+6,7,4,1,3,54,Current Smoker,Heart Disease,8,Clear/White,0,34,0
+3,2,10,3,1,62,Former Smoker,Diabetes,9,Brown/Black,1,6,1
+1,7,1,2,5,52,Current Smoker,Heart Disease,5,Clear/White,0,26,0
+3,8,10,8,5,49,Current Smoker,Neither,6,Clear/White,1,37,0
+5,1,6,6,10,34,Never Smoked,Heart Disease,9,Clear/White,0,22,0
+3,9,2,9,8,84,Former Smoker,Heart Disease,7,Yellow/Green,0,16,1
+1,7,3,8,10,66,Never Smoked,Heart Disease,10,Clear/White,0,7,0
+5,3,8,10,1,64,Never Smoked,Heart Disease,9,Clear/White,0,36,0
+10,8,10,3,2,66,Never Smoked,Both,0,Brown/Black,0,17,1
+7,7,6,5,4,71,Current Smoker,Heart Disease,7,Brown/Black,1,6,1
+7,8,3,7,5,61,Current Smoker,Neither,3,Yellow/Green,0,24,1
+9,6,7,5,6,46,Never Smoked,Neither,9,Clear/White,0,17,0
+10,9,4,8,1,81,Never Smoked,Heart Disease,7,Clear/White,0,8,0
+10,5,9,5,2,51,Never Smoked,Diabetes,5,Yellow/Green,0,11,1
+3,3,5,1,3,65,Current Smoker,Both,10,Clear/White,0,7,0
+7,3,3,5,5,58,Never Smoked,Heart Disease,8,Brown/Black,0,19,0
+1,1,2,4,7,56,Never Smoked,Heart Disease,10,Yellow/Green,0,20,0
+4,8,2,6,8,90,Former Smoker,Heart Disease,3,Clear/White,0,18,0
+4,2,3,3,10,36,Former Smoker,Diabetes,1,Brown/Black,0,31,0
+5,3,2,5,3,64,Current Smoker,Diabetes,1,Red/Pink,0,33,0
+7,8,4,2,7,97,Former Smoker,Diabetes,4,Clear/White,0,20,0
+7,8,2,6,5,97,Former Smoker,Both,9,Yellow/Green,0,6,1
+4,4,10,6,10,34,Former Smoker,Neither,8,Clear/White,1,24,0
+7,4,9,5,3,72,Current Smoker,Both,2,Clear/White,0,16,1
+3,5,2,6,3,44,Former Smoker,Diabetes,7,Clear/White,0,19,0
+6,6,9,7,9,63,Current Smoker,Neither,3,Yellow/Green,0,22,1
+2,5,6,5,10,84,Never Smoked,Neither,5,Red/Pink,0,14,0
+10,7,1,1,1,90,Former Smoker,Diabetes,9,Yellow/Green,1,36,1
+9,2,4,8,9,89,Current Smoker,Diabetes,5,Clear/White,0,9,1
+5,7,1,4,5,75,Former Smoker,Both,2,Yellow/Green,1,23,1
+6,10,6,9,1,60,Never Smoked,Diabetes,4,Clear/White,1,6,0
+4,7,4,10,3,48,Current Smoker,Neither,2,Brown/Black,0,36,0
+10,1,3,6,3,51,Current Smoker,Heart Disease,10,Clear/White,0,8,1
+7,7,3,1,3,26,Current Smoker,Diabetes,10,Clear/White,0,8,1
+9,5,9,3,3,55,Never Smoked,Diabetes,0,Clear/White,0,13,0
+7,3,6,3,5,81,Never Smoked,Both,6,Yellow/Green,0,14,0
+1,3,9,10,10,90,Never Smoked,Both,3,Clear/White,0,11,0
+1,4,5,4,3,53,Current Smoker,Diabetes,6,Yellow/Green,0,20,1
+9,2,2,6,6,39,Never Smoked,Neither,2,Clear/White,0,16,0
+9,2,8,7,9,36,Former Smoker,Neither,10,Clear/White,0,6,0
+4,1,5,10,8,52,Never Smoked,Heart Disease,4,Clear/White,1,13,0
+9,5,2,4,10,48,Current Smoker,Diabetes,4,Brown/Black,0,30,1
+3,4,4,6,1,45,Former Smoker,Both,1,Brown/Black,1,24,0
+7,10,9,1,9,34,Never Smoked,Neither,10,Clear/White,0,26,0
+6,2,4,8,6,42,Former Smoker,Heart Disease,9,Clear/White,0,24,0
+8,3,4,7,9,38,Former Smoker,Diabetes,1,Clear/White,0,13,0
+9,7,2,9,5,58,Current Smoker,Neither,3,Yellow/Green,0,8,1
+5,7,6,3,3,82,Former Smoker,Diabetes,3,Clear/White,0,12,0
+1,4,2,2,6,46,Former Smoker,Diabetes,3,Brown/Black,0,32,0
+3,5,7,1,3,94,Current Smoker,Neither,5,Brown/Black,1,39,1
+10,5,3,3,9,60,Current Smoker,Neither,1,Clear/White,0,17,0
+8,6,3,5,5,69,Current Smoker,Neither,5,Clear/White,0,6,0
+6,9,5,2,3,60,Former Smoker,Diabetes,6,Brown/Black,1,9,1
+8,2,3,3,2,46,Former Smoker,Diabetes,10,Brown/Black,1,13,1
+9,5,2,4,9,85,Former Smoker,Heart Disease,9,Clear/White,0,19,1
+4,3,10,7,5,80,Current Smoker,Both,2,Clear/White,0,7,1
+1,4,9,3,5,57,Never Smoked,Diabetes,10,Clear/White,1,37,0
+1,10,2,9,9,69,Former Smoker,Both,7,Clear/White,0,14,1
+10,6,2,8,8,60,Never Smoked,Neither,1,Clear/White,0,36,0
+4,8,8,4,4,44,Current Smoker,Diabetes,10,Clear/White,0,29,1
+7,1,9,1,3,42,Former Smoker,Heart Disease,7,Yellow/Green,1,27,1
+2,10,7,1,2,62,Never Smoked,Heart Disease,10,Clear/White,0,20,0
+3,8,3,1,8,91,Former Smoker,Both,4,Clear/White,1,21,1
+1,7,9,1,6,47,Former Smoker,Neither,1,Clear/White,0,21,0
+5,1,3,8,6,40,Former Smoker,Both,6,Brown/Black,1,21,1
+1,2,5,3,9,83,Never Smoked,Neither,1,Brown/Black,0,19,0
+8,3,9,6,10,93,Current Smoker,Heart Disease,5,Clear/White,0,40,1
+1,1,3,3,4,92,Former Smoker,Both,9,Clear/White,1,26,0
+1,9,7,5,6,45,Current Smoker,Heart Disease,2,Red/Pink,0,29,1
+2,8,1,7,3,94,Current Smoker,Heart Disease,8,Clear/White,0,34,1
+2,2,4,2,1,36,Never Smoked,Neither,2,Clear/White,0,11,0
+6,9,4,6,2,40,Never Smoked,Both,10,Clear/White,0,8,0
+7,7,7,6,4,38,Current Smoker,Both,2,Clear/White,0,17,0
+5,9,8,3,6,85,Former Smoker,Heart Disease,4,Clear/White,0,18,1
+1,6,1,6,4,95,Never Smoked,Heart Disease,6,Brown/Black,0,31,0
+1,6,5,10,10,70,Former Smoker,Neither,7,Yellow/Green,0,16,1
+3,4,7,10,3,56,Former Smoker,Diabetes,10,Clear/White,0,19,1
+2,10,4,5,3,39,Former Smoker,Diabetes,6,Brown/Black,0,18,0
+5,10,4,2,5,68,Current Smoker,Heart Disease,8,Clear/White,1,6,1
+10,2,4,9,6,41,Former Smoker,Diabetes,4,Clear/White,0,20,0
+6,7,6,8,10,65,Current Smoker,Diabetes,9,Yellow/Green,0,31,1
+7,5,7,3,9,78,Current Smoker,Diabetes,10,Yellow/Green,1,9,1
+4,6,2,8,4,68,Former Smoker,Diabetes,2,Clear/White,0,20,0
+7,2,5,9,4,29,Former Smoker,Heart Disease,5,Clear/White,1,20,0
+8,5,4,3,10,51,Former Smoker,Diabetes,4,Yellow/Green,1,9,1
+1,10,3,3,2,67,Former Smoker,Diabetes,3,Yellow/Green,1,8,0
+6,4,7,2,3,55,Current Smoker,Neither,1,Yellow/Green,0,39,0
+8,9,6,8,9,41,Former Smoker,Heart Disease,6,Clear/White,1,15,1
+5,6,7,10,2,78,Former Smoker,Both,4,Clear/White,1,11,1
+4,2,5,1,10,86,Current Smoker,Both,3,Clear/White,0,10,0
+2,1,6,8,9,56,Never Smoked,Neither,7,Clear/White,0,23,0
+6,5,5,7,4,64,Never Smoked,Neither,8,Brown/Black,0,20,0
+6,9,7,7,10,37,Current Smoker,Heart Disease,8,Clear/White,0,21,1
+1,6,2,3,9,59,Never Smoked,Both,2,Clear/White,0,8,0
+9,10,5,1,2,29,Current Smoker,Diabetes,2,Yellow/Green,0,35,1
+6,7,6,4,10,97,Former Smoker,Neither,4,Clear/White,0,15,0
+3,5,6,9,5,53,Former Smoker,Both,4,Clear/White,0,13,1
+4,10,5,5,7,94,Never Smoked,Heart Disease,9,Brown/Black,0,17,1
+4,6,10,1,10,49,Former Smoker,Diabetes,1,Brown/Black,0,15,1
+3,5,7,5,4,46,Never Smoked,Heart Disease,0,Yellow/Green,1,33,0
+10,9,10,8,1,90,Never Smoked,Neither,7,Clear/White,0,37,0
+3,6,8,8,3,69,Former Smoker,Both,2,Yellow/Green,0,13,1
+3,8,7,5,5,93,Former Smoker,Both,0,Yellow/Green,0,33,1
+4,2,5,9,3,96,Never Smoked,Both,0,Clear/White,0,29,0
+7,9,1,1,7,25,Former Smoker,Both,10,Clear/White,1,37,0
+4,5,5,4,3,68,Current Smoker,Diabetes,1,Brown/Black,1,11,1
+9,7,10,3,6,99,Former Smoker,Diabetes,5,Clear/White,0,19,1
+1,10,2,2,10,63,Former Smoker,Heart Disease,5,Yellow/Green,1,12,1
+8,1,5,8,3,78,Current Smoker,Diabetes,2,Clear/White,0,31,0
+7,10,5,7,7,99,Former Smoker,Neither,3,Clear/White,0,6,0
+2,5,2,9,3,53,Former Smoker,Neither,1,Clear/White,0,19,0
+8,10,5,2,5,78,Never Smoked,Both,1,Brown/Black,1,14,1
+1,2,4,4,10,40,Former Smoker,Neither,6,Clear/White,0,13,0
+9,6,1,6,4,44,Former Smoker,Heart Disease,0,Yellow/Green,0,22,0
+9,1,3,3,2,70,Current Smoker,Diabetes,6,Yellow/Green,1,33,1
+2,3,1,8,5,91,Never Smoked,Diabetes,0,Yellow/Green,0,20,0
+7,5,5,3,5,89,Never Smoked,Diabetes,5,Red/Pink,0,33,0
+10,4,4,2,6,82,Never Smoked,Neither,2,Yellow/Green,1,12,0
+3,3,7,3,10,77,Former Smoker,Diabetes,7,Clear/White,0,18,1
+7,10,5,6,10,25,Never Smoked,Both,5,Red/Pink,0,16,1
+10,5,10,2,8,90,Current Smoker,Both,10,Yellow/Green,0,6,1
+9,8,4,8,8,53,Never Smoked,Both,1,Clear/White,0,19,0
+4,4,2,1,10,94,Current Smoker,Neither,7,Clear/White,0,22,0
+1,1,4,7,9,32,Never Smoked,Diabetes,4,Brown/Black,0,20,0
+2,7,2,2,8,53,Never Smoked,Neither,7,Clear/White,0,26,0
+1,8,8,10,4,75,Current Smoker,Diabetes,7,Yellow/Green,0,19,1
+5,3,3,6,10,57,Never Smoked,Heart Disease,5,Clear/White,1,7,0
+5,6,9,2,1,27,Never Smoked,Heart Disease,1,Clear/White,1,8,0
+7,2,4,2,10,84,Never Smoked,Neither,7,Yellow/Green,0,20,0
+9,7,6,10,2,59,Former Smoker,Both,10,Clear/White,0,12,1
+9,8,10,8,4,93,Current Smoker,Neither,5,Clear/White,1,7,1
+3,6,5,2,3,44,Never Smoked,Both,5,Yellow/Green,0,16,0
+3,6,10,7,2,97,Current Smoker,Diabetes,7,Clear/White,0,19,1
+3,5,1,3,9,63,Current Smoker,Both,0,Yellow/Green,1,13,1
+4,8,9,8,4,28,Current Smoker,Both,1,Brown/Black,1,26,1
+8,1,1,7,1,43,Never Smoked,Diabetes,8,Yellow/Green,1,22,0
+6,10,8,8,6,69,Never Smoked,Heart Disease,10,Clear/White,1,13,1
+8,4,9,7,3,67,Current Smoker,Diabetes,7,Clear/White,0,27,1
+1,4,9,6,3,37,Former Smoker,Neither,6,Yellow/Green,0,22,0
+8,3,1,7,8,37,Current Smoker,Neither,6,Brown/Black,0,21,0
+4,3,2,5,3,84,Former Smoker,Neither,4,Brown/Black,0,19,0
+1,4,1,7,3,81,Current Smoker,Neither,1,Brown/Black,0,6,0
+8,1,10,1,7,76,Current Smoker,Neither,10,Clear/White,1,24,0
+4,2,2,1,2,77,Current Smoker,Heart Disease,5,Clear/White,1,15,0
+6,9,10,9,4,67,Never Smoked,Heart Disease,9,Clear/White,0,37,1
+8,10,8,5,7,96,Former Smoker,Both,2,Clear/White,1,31,1
+4,2,5,5,6,96,Former Smoker,Neither,3,Clear/White,1,20,0
+3,5,7,3,2,66,Current Smoker,Diabetes,9,Brown/Black,0,12,1
+9,9,2,5,7,50,Never Smoked,Neither,10,Clear/White,0,10,0
+3,9,8,3,5,47,Never Smoked,Heart Disease,1,Clear/White,0,14,0
+9,8,6,9,4,67,Former Smoker,Neither,1,Clear/White,0,17,0
+2,1,8,9,7,52,Never Smoked,Heart Disease,7,Brown/Black,0,13,0
+2,1,1,6,7,33,Former Smoker,Both,7,Yellow/Green,0,18,0
+2,9,1,1,6,44,Former Smoker,Both,9,Yellow/Green,0,9,1
+6,8,7,7,8,80,Former Smoker,Both,5,Brown/Black,0,39,1
+3,10,8,7,4,63,Never Smoked,Heart Disease,4,Clear/White,1,8,0
+9,9,3,10,10,75,Former Smoker,Neither,7,Yellow/Green,0,37,1
+4,7,5,10,5,36,Former Smoker,Neither,3,Clear/White,1,36,0
+1,3,1,4,6,79,Current Smoker,Diabetes,10,Clear/White,0,18,0
+4,3,7,8,1,35,Former Smoker,Heart Disease,3,Brown/Black,0,26,0
+1,2,5,6,8,50,Former Smoker,Diabetes,4,Yellow/Green,1,16,1
+5,5,8,4,3,66,Current Smoker,Both,0,Clear/White,0,21,0
+4,3,8,4,7,51,Current Smoker,Neither,0,Clear/White,0,14,0
+8,6,9,2,6,35,Never Smoked,Heart Disease,1,Yellow/Green,1,13,0
+8,2,7,2,6,62,Former Smoker,Diabetes,7,Clear/White,0,19,0
+7,3,1,4,5,67,Never Smoked,Diabetes,6,Clear/White,0,17,0
+3,5,3,5,3,43,Never Smoked,Diabetes,9,Clear/White,0,19,0
+1,1,8,8,7,88,Current Smoker,Neither,8,Clear/White,1,12,0
+1,1,3,6,8,30,Never Smoked,Neither,4,Brown/Black,0,14,0
+3,10,8,4,2,70,Former Smoker,Neither,1,Clear/White,0,8,0
+6,9,1,7,8,66,Current Smoker,Heart Disease,6,Clear/White,0,7,1
+7,7,5,8,9,89,Former Smoker,Neither,7,Yellow/Green,0,12,1
+6,1,4,2,8,96,Former Smoker,Heart Disease,6,Brown/Black,1,7,1
+6,8,5,7,10,83,Current Smoker,Diabetes,6,Clear/White,0,8,1
+6,3,8,2,8,76,Former Smoker,Diabetes,4,Clear/White,0,31,0
+3,8,10,2,9,71,Current Smoker,Both,1,Clear/White,0,6,1
+6,5,4,8,8,31,Former Smoker,Neither,5,Yellow/Green,1,22,0
+8,1,4,2,8,35,Current Smoker,Diabetes,3,Yellow/Green,0,12,0
+2,7,3,9,2,85,Never Smoked,Neither,9,Brown/Black,1,34,0
+5,5,7,1,2,92,Former Smoker,Heart Disease,1,Red/Pink,1,17,0
+1,6,3,9,10,49,Current Smoker,Diabetes,8,Yellow/Green,0,13,1
+1,6,3,1,1,36,Former Smoker,Neither,6,Yellow/Green,0,18,0
+5,8,10,10,6,50,Former Smoker,Diabetes,5,Clear/White,0,15,1
+3,9,5,10,6,36,Former Smoker,Diabetes,4,Clear/White,1,19,0
+4,2,5,2,6,67,Current Smoker,Neither,2,Red/Pink,0,8,0
+3,9,6,6,10,75,Never Smoked,Diabetes,9,Clear/White,0,40,0
+1,10,8,6,3,61,Never Smoked,Diabetes,9,Clear/White,1,16,0
+1,9,10,1,3,70,Never Smoked,Diabetes,3,Yellow/Green,0,14,0
+5,10,6,7,3,77,Current Smoker,Diabetes,2,Clear/White,0,25,1
+6,10,1,8,3,37,Never Smoked,Heart Disease,10,Yellow/Green,0,14,0
+3,7,8,2,6,78,Current Smoker,Diabetes,7,Yellow/Green,0,32,1
+9,1,8,8,5,81,Former Smoker,Both,2,Clear/White,1,16,1
+5,7,9,9,3,28,Former Smoker,Diabetes,6,Brown/Black,0,26,1
+8,10,9,6,6,99,Never Smoked,Neither,6,Clear/White,0,8,0
+1,5,2,5,7,73,Current Smoker,Both,6,Clear/White,1,32,0
+5,6,2,9,3,31,Former Smoker,Heart Disease,6,Yellow/Green,0,26,0
+3,10,3,9,8,35,Current Smoker,Both,1,Yellow/Green,1,11,1
+1,7,1,1,8,78,Current Smoker,Both,9,Yellow/Green,1,9,1
+4,5,4,3,8,69,Former Smoker,Both,2,Clear/White,0,13,0
+5,7,4,9,4,47,Current Smoker,Neither,9,Yellow/Green,0,39,1
+7,9,9,2,1,52,Former Smoker,Neither,8,Clear/White,1,12,0
+1,3,9,4,4,81,Former Smoker,Neither,2,Brown/Black,0,16,0
+3,8,9,4,7,50,Former Smoker,Heart Disease,1,Clear/White,0,6,0
+2,2,10,2,2,49,Current Smoker,Neither,8,Yellow/Green,1,15,1
+9,7,7,3,3,78,Former Smoker,Neither,9,Clear/White,0,19,0
+10,2,2,3,5,53,Current Smoker,Both,8,Clear/White,1,38,1
+6,4,10,1,5,60,Former Smoker,Neither,3,Clear/White,0,18,0
+10,7,5,6,5,38,Former Smoker,Diabetes,8,Brown/Black,0,31,1
+3,3,4,8,10,59,Never Smoked,Neither,2,Yellow/Green,0,19,0
+8,2,8,3,3,54,Never Smoked,Heart Disease,6,Brown/Black,1,6,0
+8,10,2,5,9,41,Never Smoked,Heart Disease,6,Clear/White,0,13,0
+2,7,6,1,6,91,Current Smoker,Diabetes,10,Clear/White,1,19,1
+6,1,5,10,5,54,Current Smoker,Heart Disease,7,Clear/White,0,38,1
+7,8,2,7,2,69,Former Smoker,Heart Disease,9,Brown/Black,0,33,1
+2,3,10,10,10,75,Former Smoker,Both,3,Clear/White,0,11,1
+10,2,1,1,9,71,Former Smoker,Diabetes,2,Brown/Black,0,11,0
+2,3,8,9,4,77,Former Smoker,Both,2,Brown/Black,0,10,1
+10,5,2,8,5,88,Current Smoker,Both,4,Brown/Black,0,36,1
+1,8,7,7,7,62,Former Smoker,Neither,10,Yellow/Green,0,33,1
+8,10,9,10,8,88,Former Smoker,Diabetes,0,Yellow/Green,1,28,1
+1,7,9,7,2,31,Never Smoked,Neither,9,Yellow/Green,0,15,0
+9,7,8,5,7,46,Former Smoker,Neither,2,Clear/White,1,18,0
+6,7,10,5,5,65,Former Smoker,Both,5,Yellow/Green,0,17,1
+7,8,9,5,5,98,Former Smoker,Heart Disease,2,Clear/White,0,12,1
+10,1,2,1,5,34,Current Smoker,Diabetes,4,Clear/White,0,18,0
+7,4,6,8,5,81,Never Smoked,Heart Disease,8,Clear/White,0,6,0
+10,6,4,1,2,31,Former Smoker,Both,1,Clear/White,0,9,0
+3,9,4,4,4,74,Former Smoker,Both,10,Clear/White,0,34,1
+2,2,5,9,6,76,Never Smoked,Both,1,Clear/White,0,27,0
+9,1,3,9,1,57,Former Smoker,Both,5,Yellow/Green,1,16,1
+8,10,1,5,2,25,Current Smoker,Both,5,Clear/White,0,18,1
+10,2,8,4,4,77,Former Smoker,Both,10,Yellow/Green,1,14,1
+7,7,5,3,8,84,Current Smoker,Heart Disease,10,Clear/White,0,27,1
+9,3,3,3,3,58,Current Smoker,Neither,7,Yellow/Green,0,29,1
+4,10,10,5,2,28,Former Smoker,Heart Disease,10,Yellow/Green,0,28,1
+4,2,7,10,7,41,Never Smoked,Diabetes,1,Yellow/Green,0,26,0
+1,7,7,1,8,28,Current Smoker,Heart Disease,8,Yellow/Green,0,10,1
+8,2,1,5,2,67,Never Smoked,Both,1,Clear/White,0,14,0
+3,3,9,6,8,28,Former Smoker,Heart Disease,0,Yellow/Green,0,17,0
+7,7,2,7,9,25,Current Smoker,Neither,9,Clear/White,0,13,0
+2,4,5,9,5,95,Former Smoker,Diabetes,1,Clear/White,0,27,0
+2,1,5,3,5,74,Never Smoked,Heart Disease,6,Yellow/Green,0,13,0
+7,5,8,2,7,97,Former Smoker,Neither,7,Clear/White,0,9,0
+6,9,8,3,9,85,Former Smoker,Heart Disease,4,Yellow/Green,1,15,1
+3,8,7,9,3,59,Current Smoker,Diabetes,5,Yellow/Green,1,39,1
+9,9,7,7,9,32,Former Smoker,Heart Disease,0,Clear/White,0,11,0
+10,10,6,9,6,48,Former Smoker,Both,5,Clear/White,1,20,1
+6,9,6,2,10,60,Former Smoker,Heart Disease,7,Clear/White,1,16,1
+10,7,9,5,8,74,Current Smoker,Neither,2,Brown/Black,0,7,1
+10,4,6,4,3,67,Never Smoked,Heart Disease,10,Yellow/Green,0,17,1
+6,5,2,2,1,51,Never Smoked,Neither,0,Clear/White,1,25,0
+1,1,2,9,7,56,Former Smoker,Diabetes,10,Clear/White,0,18,0
+4,1,5,9,6,42,Current Smoker,Heart Disease,3,Yellow/Green,1,34,1
+10,3,4,6,1,52,Former Smoker,Diabetes,0,Brown/Black,0,12,0
+6,8,2,6,8,53,Never Smoked,Diabetes,7,Clear/White,0,8,0
+6,2,3,8,8,40,Current Smoker,Heart Disease,4,Clear/White,0,37,0
+5,4,7,6,6,71,Never Smoked,Neither,0,Brown/Black,0,15,0
+1,2,8,1,2,83,Never Smoked,Diabetes,7,Clear/White,1,19,0
+8,5,6,4,3,55,Current Smoker,Diabetes,8,Clear/White,1,29,1
+5,9,5,7,4,28,Current Smoker,Heart Disease,9,Red/Pink,0,13,1
+5,1,1,2,4,61,Former Smoker,Heart Disease,1,Yellow/Green,0,25,0
+7,5,8,9,2,41,Former Smoker,Heart Disease,8,Clear/White,1,9,1
+4,9,3,8,1,63,Never Smoked,Heart Disease,7,Clear/White,0,12,0
+6,1,6,8,9,72,Current Smoker,Heart Disease,6,Clear/White,0,9,1
+4,9,3,7,10,70,Current Smoker,Both,2,Clear/White,0,30,1
+3,8,7,4,6,72,Former Smoker,Heart Disease,1,Brown/Black,1,11,1
+7,4,7,2,4,63,Never Smoked,Neither,6,Clear/White,1,25,0
+8,10,9,3,6,28,Never Smoked,Diabetes,4,Yellow/Green,0,37,0
+4,5,5,6,3,54,Former Smoker,Neither,5,Brown/Black,0,18,0
+2,5,8,5,10,54,Current Smoker,Neither,3,Clear/White,1,18,0
+10,6,10,8,10,46,Former Smoker,Both,1,Clear/White,0,17,1
+3,7,10,6,2,99,Former Smoker,Heart Disease,8,Yellow/Green,0,13,1
+1,8,8,6,5,90,Former Smoker,Diabetes,2,Brown/Black,0,17,1
+8,8,1,1,1,36,Former Smoker,Neither,6,Brown/Black,1,20,0
+3,2,5,4,8,60,Current Smoker,Heart Disease,7,Clear/White,0,40,0
+10,9,3,5,2,42,Former Smoker,Heart Disease,1,Yellow/Green,0,37,1
+7,7,1,3,6,77,Current Smoker,Both,5,Yellow/Green,0,33,1
+10,4,4,9,6,95,Former Smoker,Both,10,Brown/Black,0,35,1
+5,4,8,1,10,25,Never Smoked,Both,7,Clear/White,0,17,0
+10,8,3,6,10,82,Current Smoker,Diabetes,6,Yellow/Green,0,22,1
+5,4,10,6,8,30,Never Smoked,Neither,10,Brown/Black,0,35,0
+7,6,2,10,6,94,Former Smoker,Both,2,Clear/White,0,15,1
+9,5,9,5,4,68,Former Smoker,Both,0,Clear/White,0,38,1
+5,3,10,5,8,96,Former Smoker,Both,5,Clear/White,0,15,1
+1,10,5,10,10,48,Current Smoker,Neither,7,Clear/White,1,20,1
+10,2,7,5,10,43,Never Smoked,Neither,5,Clear/White,1,25,0
+10,9,2,6,3,42,Current Smoker,Both,4,Brown/Black,0,38,1
+1,10,9,8,6,54,Current Smoker,Both,10,Clear/White,1,11,1
+2,9,9,2,4,66,Former Smoker,Heart Disease,7,Clear/White,0,27,1
+6,1,4,6,7,57,Never Smoked,Both,1,Yellow/Green,1,18,0
+9,10,4,1,7,98,Former Smoker,Diabetes,0,Clear/White,0,12,0
+8,3,6,4,10,36,Current Smoker,Diabetes,0,Clear/White,0,29,0
+5,8,10,10,5,51,Former Smoker,Both,3,Yellow/Green,0,19,1
+1,6,10,3,7,63,Never Smoked,Neither,5,Brown/Black,0,22,0
+7,5,10,9,8,33,Former Smoker,Heart Disease,8,Yellow/Green,1,13,1
+5,5,6,3,9,45,Never Smoked,Neither,0,Yellow/Green,0,17,0
+6,6,1,6,3,53,Never Smoked,Both,0,Clear/White,0,20,0
+7,7,9,1,3,57,Former Smoker,Diabetes,4,Brown/Black,0,15,1
+3,1,2,6,6,86,Current Smoker,Heart Disease,9,Clear/White,1,10,1
+10,9,5,4,5,39,Former Smoker,Neither,4,Yellow/Green,0,38,0
+3,3,9,8,2,26,Current Smoker,Neither,4,Clear/White,0,18,0
+5,4,4,9,3,76,Current Smoker,Both,9,Brown/Black,1,26,1
+6,10,3,4,7,68,Former Smoker,Heart Disease,5,Yellow/Green,0,15,1
+9,1,7,10,3,78,Current Smoker,Diabetes,7,Yellow/Green,0,14,1
+5,10,6,10,10,42,Current Smoker,Both,2,Clear/White,1,15,1
+1,3,8,6,5,27,Former Smoker,Heart Disease,8,Clear/White,0,15,0
+4,2,3,1,4,31,Former Smoker,Neither,0,Yellow/Green,0,19,0
+5,2,5,4,7,67,Former Smoker,Both,3,Yellow/Green,0,19,1
+10,1,10,7,7,62,Current Smoker,Neither,8,Clear/White,1,17,1
+10,8,4,1,7,61,Never Smoked,Neither,7,Red/Pink,0,9,0
+5,3,4,8,3,82,Current Smoker,Both,9,Brown/Black,1,17,1
+7,3,4,10,1,57,Never Smoked,Both,8,Clear/White,1,10,0
+4,6,10,6,10,83,Former Smoker,Both,0,Brown/Black,0,9,1
+1,8,8,5,3,35,Never Smoked,Both,8,Yellow/Green,1,37,0
+5,9,6,10,2,92,Former Smoker,Both,2,Clear/White,0,20,1
+7,9,3,9,2,92,Former Smoker,Neither,10,Clear/White,0,22,0
+10,4,10,2,7,46,Never Smoked,Diabetes,9,Yellow/Green,1,15,1
+10,5,5,5,10,90,Former Smoker,Diabetes,8,Yellow/Green,1,36,1
+6,2,6,6,2,68,Never Smoked,Both,0,Clear/White,0,21,0
+5,9,5,7,4,30,Former Smoker,Neither,0,Yellow/Green,0,28,0
+4,8,6,5,4,66,Current Smoker,Diabetes,8,Yellow/Green,0,14,1
+2,3,8,9,8,49,Current Smoker,Diabetes,10,Yellow/Green,0,38,1
+4,9,7,1,8,81,Former Smoker,Diabetes,5,Clear/White,0,31,1
+10,3,5,7,10,79,Former Smoker,Neither,3,Brown/Black,0,33,1
+10,9,10,10,4,40,Never Smoked,Both,6,Clear/White,0,10,1
+3,2,6,7,7,38,Current Smoker,Both,4,Clear/White,0,12,0
+10,10,4,4,4,63,Never Smoked,Both,9,Clear/White,0,12,0
+1,9,9,9,3,52,Former Smoker,Heart Disease,6,Clear/White,1,12,1
+8,8,4,5,5,75,Former Smoker,Heart Disease,7,Brown/Black,1,33,1
+5,9,1,4,9,73,Never Smoked,Heart Disease,7,Clear/White,0,6,0
+4,5,7,7,8,33,Former Smoker,Neither,0,Yellow/Green,0,7,0
+8,2,7,4,10,82,Current Smoker,Diabetes,7,Clear/White,0,12,1
+7,8,4,3,8,69,Never Smoked,Diabetes,5,Clear/White,0,10,0
+2,6,3,9,10,46,Current Smoker,Neither,3,Red/Pink,0,11,0
+1,8,8,8,9,56,Current Smoker,Neither,7,Yellow/Green,1,30,1
+4,5,5,1,10,93,Current Smoker,Both,2,Clear/White,0,19,1
+8,10,10,7,8,93,Never Smoked,Both,3,Yellow/Green,0,6,1
+2,2,7,9,8,66,Former Smoker,Heart Disease,5,Clear/White,0,16,1
+3,6,4,8,2,77,Current Smoker,Heart Disease,10,Clear/White,0,15,1
+1,5,4,8,9,83,Current Smoker,Neither,6,Yellow/Green,0,8,1
+1,5,8,6,3,98,Current Smoker,Heart Disease,3,Yellow/Green,1,23,1
+3,1,8,4,4,63,Former Smoker,Diabetes,3,Clear/White,0,25,0
+5,2,2,8,4,39,Former Smoker,Neither,6,Brown/Black,0,26,0
+3,8,2,3,5,95,Never Smoked,Neither,5,Yellow/Green,0,26,0
+1,3,3,9,10,53,Former Smoker,Diabetes,10,Clear/White,1,6,1
+1,10,3,2,6,27,Never Smoked,Both,7,Yellow/Green,0,38,0
+8,3,1,2,4,34,Never Smoked,Both,0,Yellow/Green,0,31,0
+10,8,3,7,2,53,Never Smoked,Diabetes,9,Yellow/Green,1,35,1
+2,8,6,10,6,59,Never Smoked,Diabetes,10,Clear/White,0,6,0
+3,2,8,4,8,30,Never Smoked,Heart Disease,6,Yellow/Green,0,37,0
+2,8,10,10,10,36,Current Smoker,Neither,6,Clear/White,0,30,0
+3,1,6,8,7,62,Former Smoker,Heart Disease,10,Brown/Black,0,32,1
+7,6,5,9,8,43,Current Smoker,Diabetes,6,Yellow/Green,0,8,1
+1,8,4,7,2,91,Never Smoked,Heart Disease,6,Clear/White,0,27,0
+10,3,3,5,7,32,Former Smoker,Diabetes,9,Yellow/Green,0,38,1
+8,8,4,8,7,32,Current Smoker,Heart Disease,9,Brown/Black,0,23,1
+10,1,7,4,8,71,Current Smoker,Heart Disease,7,Brown/Black,0,19,1
+10,9,1,2,10,28,Never Smoked,Both,8,Clear/White,0,38,0
+10,9,7,6,10,75,Current Smoker,Diabetes,8,Clear/White,0,16,1
+2,5,1,9,10,91,Current Smoker,Heart Disease,1,Yellow/Green,1,20,1
+3,10,2,1,5,69,Current Smoker,Neither,6,Clear/White,0,17,0
+9,4,4,10,9,32,Current Smoker,Heart Disease,6,Brown/Black,0,37,1
+7,6,1,7,3,40,Current Smoker,Heart Disease,3,Clear/White,0,7,0
+4,7,9,10,1,91,Never Smoked,Neither,8,Clear/White,0,18,0
+10,5,6,9,7,33,Never Smoked,Diabetes,7,Clear/White,0,24,0
+5,10,1,10,2,84,Current Smoker,Both,0,Clear/White,0,29,1
+2,9,1,9,9,95,Never Smoked,Both,1,Yellow/Green,0,19,0
+8,3,6,10,7,39,Never Smoked,Both,1,Clear/White,0,36,0
+4,7,4,3,10,95,Former Smoker,Neither,10,Clear/White,1,37,0
+9,10,4,5,7,65,Current Smoker,Heart Disease,7,Clear/White,0,7,1
+5,10,6,8,8,46,Never Smoked,Diabetes,0,Yellow/Green,0,15,0
+9,5,7,8,2,48,Never Smoked,Heart Disease,3,Clear/White,0,6,0
+4,7,9,4,3,68,Current Smoker,Both,9,Yellow/Green,0,13,1
+10,2,10,1,6,25,Former Smoker,Heart Disease,4,Yellow/Green,0,18,1
+5,4,5,1,3,34,Current Smoker,Neither,8,Yellow/Green,0,36,0
+9,2,9,4,2,96,Former Smoker,Neither,6,Brown/Black,0,32,0
+8,7,4,6,5,80,Current Smoker,Diabetes,7,Brown/Black,1,9,1
+3,2,10,8,10,74,Current Smoker,Diabetes,10,Brown/Black,1,8,1
+1,1,2,6,3,36,Current Smoker,Both,8,Clear/White,0,20,0
+3,9,3,9,2,84,Current Smoker,Diabetes,6,Clear/White,0,18,1
+4,1,1,9,7,50,Former Smoker,Heart Disease,4,Clear/White,1,12,0
+2,8,6,2,7,65,Former Smoker,Neither,4,Brown/Black,0,35,0
+1,2,6,10,1,60,Never Smoked,Neither,9,Red/Pink,0,37,0
+7,8,1,1,3,47,Current Smoker,Neither,10,Brown/Black,0,15,1
+8,3,3,2,8,67,Former Smoker,Diabetes,5,Clear/White,0,35,0
+7,6,5,5,4,30,Former Smoker,Neither,4,Brown/Black,0,15,0
+5,3,3,4,10,93,Former Smoker,Neither,10,Clear/White,0,26,0
+1,7,10,4,7,67,Current Smoker,Neither,8,Clear/White,0,17,0
+7,10,3,9,2,49,Never Smoked,Both,2,Clear/White,0,8,0
+7,9,10,8,9,42,Former Smoker,Both,2,Clear/White,1,37,1
+9,2,3,6,8,86,Current Smoker,Diabetes,6,Yellow/Green,0,16,1
+3,5,5,1,3,37,Former Smoker,Neither,6,Clear/White,0,26,0
+9,6,5,2,7,67,Former Smoker,Diabetes,5,Clear/White,0,14,1
+1,4,4,6,9,52,Never Smoked,Neither,2,Yellow/Green,1,6,0
+1,4,1,2,3,42,Former Smoker,Neither,6,Brown/Black,1,8,0
+4,4,5,10,2,83,Former Smoker,Neither,4,Yellow/Green,0,17,0
+9,2,10,5,9,84,Current Smoker,Diabetes,6,Clear/White,0,24,1
+6,4,5,5,9,87,Current Smoker,Diabetes,1,Brown/Black,1,14,1
+3,1,4,6,4,81,Never Smoked,Neither,5,Brown/Black,0,24,0
+1,6,6,6,3,75,Current Smoker,Heart Disease,7,Clear/White,0,24,1
+4,1,10,6,10,80,Current Smoker,Diabetes,0,Yellow/Green,0,25,1
+9,10,4,2,1,51,Never Smoked,Both,3,Clear/White,0,17,0
+3,6,7,10,1,56,Former Smoker,Diabetes,10,Clear/White,0,36,1
+9,1,7,3,5,33,Never Smoked,Neither,0,Yellow/Green,0,17,0
+7,6,2,6,8,92,Current Smoker,Heart Disease,0,Brown/Black,0,16,1
+4,10,3,8,3,70,Never Smoked,Neither,9,Clear/White,1,10,0
+3,8,1,1,9,91,Former Smoker,Both,10,Brown/Black,1,13,1
+10,2,8,1,10,50,Never Smoked,Diabetes,7,Brown/Black,1,7,1
+5,2,9,2,8,32,Current Smoker,Diabetes,6,Brown/Black,1,21,1
+5,4,4,6,6,30,Current Smoker,Neither,9,Clear/White,0,11,0
+3,3,6,9,7,48,Never Smoked,Neither,0,Brown/Black,0,13,0
+9,4,9,4,8,72,Former Smoker,Both,10,Clear/White,0,28,1
+4,7,6,3,9,69,Never Smoked,Heart Disease,1,Yellow/Green,1,13,0
+5,1,9,8,6,37,Former Smoker,Both,3,Clear/White,0,11,0
+4,6,4,10,6,93,Former Smoker,Heart Disease,0,Clear/White,1,10,1
+5,3,8,9,8,49,Never Smoked,Diabetes,2,Yellow/Green,0,28,0
+7,10,9,5,5,44,Former Smoker,Heart Disease,7,Clear/White,1,9,1
+9,7,4,9,5,90,Current Smoker,Heart Disease,7,Clear/White,0,16,1
+7,10,5,2,3,98,Never Smoked,Diabetes,7,Clear/White,0,18,0
+5,2,8,3,6,69,Former Smoker,Diabetes,5,Yellow/Green,1,24,1
+10,2,10,7,4,71,Current Smoker,Diabetes,5,Clear/White,0,21,1
+10,4,6,7,6,87,Never Smoked,Both,4,Brown/Black,1,30,1
+7,1,7,6,8,79,Current Smoker,Diabetes,8,Clear/White,0,7,1
+10,3,3,6,10,99,Current Smoker,Neither,3,Clear/White,0,13,0
+5,9,7,2,9,43,Current Smoker,Diabetes,9,Clear/White,0,12,1
+3,7,8,10,8,59,Former Smoker,Diabetes,6,Clear/White,0,9,1
+7,7,10,6,9,77,Never Smoked,Diabetes,0,Clear/White,0,12,0
+2,4,6,4,6,50,Never Smoked,Heart Disease,8,Clear/White,0,13,0
+9,2,10,3,3,38,Former Smoker,Both,6,Red/Pink,0,18,1
+10,4,9,2,10,69,Never Smoked,Diabetes,9,Yellow/Green,0,23,1
+10,6,6,1,5,68,Current Smoker,Both,8,Clear/White,0,15,1
+1,3,9,5,1,89,Never Smoked,Neither,6,Clear/White,0,26,0
+6,1,4,2,5,75,Former Smoker,Neither,1,Brown/Black,1,14,0
+7,8,8,2,6,67,Current Smoker,Diabetes,5,Clear/White,0,12,1
+8,5,4,7,9,47,Former Smoker,Neither,9,Clear/White,0,18,0
+10,5,2,8,3,80,Current Smoker,Both,10,Yellow/Green,0,6,1
+9,4,10,10,7,43,Current Smoker,Heart Disease,3,Yellow/Green,0,7,1
+2,6,9,8,10,79,Never Smoked,Diabetes,2,Yellow/Green,0,16,1
+10,3,5,4,6,84,Current Smoker,Neither,1,Clear/White,1,37,0
+2,9,4,1,7,83,Former Smoker,Both,5,Clear/White,1,26,1
+5,5,2,7,6,57,Never Smoked,Both,7,Yellow/Green,0,8,0
+5,3,1,1,4,43,Former Smoker,Neither,5,Clear/White,0,32,0
+6,1,7,4,2,52,Current Smoker,Both,8,Yellow/Green,1,26,1
+3,10,6,8,2,76,Former Smoker,Both,4,Yellow/Green,0,20,1
+8,6,2,2,1,73,Former Smoker,Diabetes,1,Clear/White,0,31,0
+1,2,8,6,6,61,Current Smoker,Both,7,Brown/Black,0,15,1
+6,3,4,6,4,50,Never Smoked,Neither,8,Brown/Black,0,11,0
+4,1,8,9,1,64,Former Smoker,Diabetes,9,Yellow/Green,1,18,1
+1,9,7,5,8,62,Current Smoker,Neither,3,Clear/White,0,19,0
+7,8,5,10,4,78,Never Smoked,Heart Disease,5,Clear/White,0,18,0
+9,2,10,4,1,46,Never Smoked,Neither,10,Clear/White,0,19,0
+4,8,10,5,1,40,Never Smoked,Neither,9,Clear/White,1,38,0
+4,9,8,10,1,52,Former Smoker,Diabetes,7,Red/Pink,1,35,1
+6,1,9,5,8,59,Former Smoker,Both,8,Clear/White,0,34,1
+3,5,5,8,10,84,Former Smoker,Neither,4,Clear/White,0,30,0
+6,8,10,10,8,69,Never Smoked,Diabetes,5,Clear/White,0,37,1
+7,2,5,8,2,70,Former Smoker,Heart Disease,10,Yellow/Green,1,8,1
+10,4,2,2,9,96,Current Smoker,Diabetes,3,Clear/White,1,12,1
+10,7,5,7,8,79,Former Smoker,Diabetes,4,Clear/White,0,17,1
+3,3,3,8,8,50,Former Smoker,Both,6,Clear/White,1,32,1
+7,5,7,6,10,49,Never Smoked,Neither,8,Brown/Black,0,18,0
+3,8,10,5,7,89,Former Smoker,Heart Disease,9,Clear/White,0,27,1
+2,10,5,9,7,30,Current Smoker,Diabetes,10,Brown/Black,0,9,1
+10,3,8,3,1,47,Never Smoked,Neither,5,Brown/Black,0,12,0
+4,4,1,10,3,88,Current Smoker,Neither,5,Clear/White,0,26,0
+8,9,3,4,7,67,Never Smoked,Diabetes,7,Yellow/Green,0,9,1
+9,7,3,9,2,47,Never Smoked,Neither,10,Clear/White,0,14,0
+7,1,9,6,6,54,Former Smoker,Diabetes,3,Red/Pink,0,12,1
+1,4,5,8,4,42,Current Smoker,Diabetes,2,Yellow/Green,0,14,0
+3,4,9,7,1,45,Never Smoked,Diabetes,6,Clear/White,0,25,0
+9,9,9,2,7,81,Former Smoker,Heart Disease,4,Clear/White,0,14,1
+1,6,1,3,2,47,Never Smoked,Diabetes,1,Clear/White,0,19,0
+9,9,2,1,2,69,Never Smoked,Both,1,Red/Pink,0,8,0
+8,6,5,9,5,68,Never Smoked,Neither,10,Clear/White,1,30,0
+1,6,4,7,5,71,Never Smoked,Heart Disease,5,Yellow/Green,1,14,0
+6,5,10,1,7,64,Never Smoked,Neither,7,Clear/White,1,22,0
+5,5,9,3,1,75,Never Smoked,Heart Disease,0,Brown/Black,0,26,0
+6,2,7,4,8,66,Former Smoker,Both,10,Clear/White,0,11,1
+10,8,6,4,3,31,Never Smoked,Heart Disease,5,Yellow/Green,0,34,0
+5,8,7,5,6,74,Current Smoker,Heart Disease,1,Clear/White,0,20,1
+6,1,1,3,9,72,Former Smoker,Heart Disease,1,Yellow/Green,0,16,0
+5,8,1,3,6,30,Current Smoker,Neither,6,Clear/White,0,10,0
+5,5,8,1,10,33,Never Smoked,Diabetes,9,Clear/White,1,37,0
+4,2,2,7,7,81,Current Smoker,Neither,0,Clear/White,0,27,0
+3,2,10,10,7,55,Never Smoked,Diabetes,5,Yellow/Green,1,10,1
+3,6,9,1,4,45,Never Smoked,Neither,6,Clear/White,1,14,0
+4,9,7,2,1,64,Former Smoker,Both,7,Yellow/Green,0,30,1
+9,1,6,4,9,69,Former Smoker,Both,6,Clear/White,1,24,1
+2,6,1,4,4,73,Never Smoked,Heart Disease,5,Brown/Black,0,28,0
+9,9,1,5,9,44,Former Smoker,Both,8,Brown/Black,1,16,1
+1,8,2,2,8,41,Current Smoker,Heart Disease,2,Yellow/Green,0,25,0
+1,6,6,4,1,52,Former Smoker,Diabetes,10,Clear/White,1,15,0
+5,3,6,1,3,65,Former Smoker,Both,5,Clear/White,0,11,0
+6,8,2,2,4,90,Current Smoker,Diabetes,3,Clear/White,1,21,0
+6,9,1,1,9,49,Former Smoker,Neither,1,Clear/White,0,39,0
+3,1,10,10,1,82,Never Smoked,Diabetes,0,Yellow/Green,0,13,0
+7,9,5,10,3,65,Current Smoker,Neither,0,Yellow/Green,1,17,1
+9,6,5,4,9,30,Never Smoked,Diabetes,10,Brown/Black,1,23,1
+10,6,2,4,10,99,Current Smoker,Diabetes,9,Clear/White,0,18,1
+8,4,6,7,8,62,Never Smoked,Both,2,Yellow/Green,0,32,1
+6,1,9,10,1,30,Never Smoked,Diabetes,3,Clear/White,0,28,0
+8,10,2,9,8,69,Former Smoker,Both,1,Yellow/Green,1,7,1
+5,8,10,9,10,99,Never Smoked,Both,10,Clear/White,1,40,1
+8,2,2,5,3,38,Former Smoker,Heart Disease,10,Clear/White,1,27,0
+10,1,3,10,9,90,Current Smoker,Heart Disease,10,Clear/White,0,33,1
+4,2,7,1,1,64,Never Smoked,Neither,0,Yellow/Green,0,22,0
+10,1,6,1,1,27,Never Smoked,Diabetes,3,Brown/Black,0,33,0
+8,1,8,6,2,48,Current Smoker,Neither,6,Clear/White,1,8,0
+10,9,8,2,7,43,Current Smoker,Diabetes,9,Clear/White,0,14,1
+2,1,6,8,5,42,Never Smoked,Heart Disease,10,Clear/White,1,34,0
+5,4,10,9,10,88,Current Smoker,Heart Disease,5,Yellow/Green,0,10,1
+9,10,3,4,7,59,Former Smoker,Diabetes,5,Clear/White,0,7,1
+4,6,3,5,10,86,Current Smoker,Diabetes,10,Yellow/Green,0,29,1
+6,7,1,8,8,25,Current Smoker,Heart Disease,8,Red/Pink,0,32,1
+1,2,7,3,6,49,Never Smoked,Heart Disease,1,Brown/Black,0,9,0
+9,6,5,5,2,69,Former Smoker,Neither,3,Clear/White,0,33,0
+1,7,4,3,8,73,Current Smoker,Heart Disease,4,Brown/Black,0,24,1
+5,10,10,10,5,40,Former Smoker,Diabetes,0,Yellow/Green,1,18,1
+4,10,4,3,3,43,Former Smoker,Neither,7,Clear/White,0,31,0
+3,2,4,3,6,47,Former Smoker,Diabetes,7,Yellow/Green,0,16,0
+6,2,6,7,8,49,Never Smoked,Both,5,Brown/Black,0,10,0
+2,10,8,7,3,40,Current Smoker,Neither,4,Clear/White,0,12,0
+3,7,8,7,1,78,Never Smoked,Diabetes,7,Clear/White,1,18,0
+5,1,5,10,5,97,Current Smoker,Heart Disease,2,Clear/White,0,18,0
+9,8,6,8,5,25,Current Smoker,Both,2,Yellow/Green,1,30,1
+2,3,4,5,8,66,Never Smoked,Diabetes,1,Clear/White,0,29,0
+10,6,9,5,1,43,Former Smoker,Neither,4,Brown/Black,0,19,0
+8,9,8,4,5,58,Former Smoker,Diabetes,2,Yellow/Green,0,29,1
+2,6,10,7,5,79,Current Smoker,Both,2,Yellow/Green,0,10,1
+5,9,10,10,2,42,Never Smoked,Neither,5,Clear/White,0,7,0
+7,7,1,4,8,58,Former Smoker,Both,7,Yellow/Green,1,34,1
+8,9,2,2,3,69,Former Smoker,Diabetes,1,Clear/White,0,7,0
+1,2,9,4,9,30,Current Smoker,Heart Disease,3,Clear/White,0,11,0
+6,8,8,8,3,45,Current Smoker,Heart Disease,10,Yellow/Green,0,24,1
+1,8,3,9,6,94,Never Smoked,Diabetes,6,Clear/White,0,15,0
+2,2,8,3,5,72,Current Smoker,Diabetes,0,Yellow/Green,0,34,0
+1,4,1,7,8,63,Former Smoker,Diabetes,0,Clear/White,0,13,0
+5,7,10,9,6,55,Former Smoker,Neither,9,Clear/White,0,6,1
+10,4,4,4,2,34,Former Smoker,Both,6,Clear/White,0,13,0
+9,4,3,10,6,54,Former Smoker,Both,6,Red/Pink,0,19,1
+6,6,6,3,7,42,Never Smoked,Both,0,Yellow/Green,1,15,0
+1,10,7,5,5,84,Never Smoked,Diabetes,0,Yellow/Green,0,18,0
+1,6,4,1,5,97,Current Smoker,Both,3,Clear/White,0,34,0
+2,10,7,3,6,39,Current Smoker,Diabetes,4,Clear/White,1,36,0
+9,3,9,8,6,28,Current Smoker,Neither,4,Red/Pink,0,12,0
+3,9,2,8,6,87,Never Smoked,Heart Disease,3,Clear/White,0,17,0
+1,10,3,4,10,64,Former Smoker,Diabetes,7,Clear/White,0,19,1
+5,2,5,2,3,33,Current Smoker,Diabetes,6,Yellow/Green,0,38,0
+7,6,3,8,4,33,Former Smoker,Heart Disease,8,Clear/White,0,40,0
+6,7,8,8,2,50,Current Smoker,Heart Disease,6,Brown/Black,1,11,1
+1,9,10,10,6,28,Current Smoker,Neither,9,Yellow/Green,1,26,1
+5,3,8,4,2,40,Current Smoker,Both,0,Clear/White,1,15,1
+5,10,8,3,3,39,Current Smoker,Diabetes,6,Clear/White,1,6,0
+6,3,9,2,3,76,Current Smoker,Both,0,Clear/White,0,6,1
+3,7,4,9,4,93,Former Smoker,Diabetes,6,Brown/Black,0,17,1
+5,4,5,1,9,29,Current Smoker,Neither,9,Yellow/Green,1,17,0
+7,8,5,7,3,44,Former Smoker,Heart Disease,7,Clear/White,1,6,1
+5,7,8,5,10,42,Never Smoked,Neither,10,Clear/White,0,24,0
+5,5,7,8,5,26,Current Smoker,Heart Disease,8,Yellow/Green,1,13,1
+5,7,9,4,8,37,Former Smoker,Both,2,Yellow/Green,0,19,1
+10,3,8,7,8,28,Never Smoked,Both,3,Clear/White,0,13,0
+10,2,2,5,1,66,Never Smoked,Neither,3,Clear/White,0,10,0
+3,6,10,5,10,98,Never Smoked,Heart Disease,8,Clear/White,0,15,0
+1,2,4,9,2,85,Former Smoker,Neither,6,Yellow/Green,0,11,0
+5,3,6,9,10,32,Current Smoker,Heart Disease,2,Red/Pink,0,18,1
+9,6,2,9,3,91,Current Smoker,Heart Disease,9,Clear/White,0,10,1
+1,5,7,6,8,87,Former Smoker,Both,4,Yellow/Green,0,18,1
+3,8,3,6,10,33,Current Smoker,Both,6,Clear/White,0,9,1
+4,9,3,5,2,35,Former Smoker,Heart Disease,7,Clear/White,1,23,0
+1,3,2,9,6,66,Current Smoker,Heart Disease,0,Clear/White,0,27,0
+1,10,8,10,6,37,Never Smoked,Heart Disease,1,Brown/Black,0,8,0
+8,3,6,8,3,60,Current Smoker,Both,6,Clear/White,0,17,1
+2,3,1,7,8,37,Former Smoker,Both,10,Yellow/Green,0,7,1
+8,6,1,7,8,36,Former Smoker,Diabetes,1,Clear/White,1,20,0
+7,1,7,6,7,61,Never Smoked,Heart Disease,6,Clear/White,0,12,0
+10,7,8,5,9,98,Former Smoker,Diabetes,8,Clear/White,1,18,1
+10,1,5,4,4,97,Current Smoker,Heart Disease,10,Yellow/Green,0,18,1
+2,5,5,3,5,76,Current Smoker,Both,1,Clear/White,0,36,0
+6,10,4,3,10,95,Never Smoked,Diabetes,6,Yellow/Green,0,19,1
+6,8,6,6,8,26,Former Smoker,Diabetes,3,Clear/White,0,19,0
+3,4,6,4,6,80,Never Smoked,Neither,10,Clear/White,0,15,0
+2,5,3,6,2,84,Current Smoker,Heart Disease,1,Clear/White,0,38,0
+1,4,9,3,9,47,Never Smoked,Both,6,Clear/White,0,29,0
+6,4,7,4,10,64,Former Smoker,Neither,4,Clear/White,0,12,0
+5,8,1,9,4,88,Never Smoked,Neither,0,Clear/White,1,32,0
+9,2,7,5,8,47,Former Smoker,Heart Disease,4,Yellow/Green,0,16,1
+1,1,5,7,10,53,Former Smoker,Neither,2,Yellow/Green,0,31,0
+7,3,5,10,5,75,Current Smoker,Heart Disease,6,Clear/White,0,31,1
+5,9,2,2,5,93,Current Smoker,Neither,5,Clear/White,0,10,0
+5,4,4,5,10,55,Current Smoker,Heart Disease,7,Clear/White,0,25,1
+2,10,6,9,5,74,Former Smoker,Both,4,Clear/White,1,12,1
+3,5,10,3,3,44,Never Smoked,Heart Disease,1,Clear/White,1,13,0
+7,2,7,9,10,79,Former Smoker,Heart Disease,8,Brown/Black,0,13,1
+6,4,5,6,3,26,Current Smoker,Diabetes,10,Clear/White,0,26,0
+2,2,9,4,5,49,Current Smoker,Both,7,Clear/White,0,11,0
+6,2,3,7,9,37,Never Smoked,Both,5,Clear/White,0,6,0
+2,4,1,8,7,94,Current Smoker,Both,9,Clear/White,0,25,1
+2,6,4,6,2,91,Current Smoker,Neither,6,Yellow/Green,0,10,1
+2,7,9,5,4,82,Current Smoker,Diabetes,8,Clear/White,0,8,1
+3,10,4,6,7,99,Never Smoked,Both,6,Clear/White,0,11,0
+2,3,2,5,2,88,Former Smoker,Neither,2,Yellow/Green,0,15,0
+4,3,10,8,6,93,Current Smoker,Neither,5,Clear/White,0,17,0
+9,10,5,1,7,83,Never Smoked,Neither,10,Yellow/Green,0,7,0
+6,6,3,7,6,84,Current Smoker,Diabetes,10,Yellow/Green,0,39,1
+1,3,9,10,7,86,Never Smoked,Neither,6,Clear/White,1,25,0
+8,2,4,10,9,40,Current Smoker,Diabetes,1,Yellow/Green,0,13,1
+7,8,6,2,1,92,Never Smoked,Heart Disease,2,Clear/White,1,13,0
+10,5,2,9,8,39,Current Smoker,Neither,3,Yellow/Green,0,16,0
+3,1,6,1,9,79,Former Smoker,Both,9,Clear/White,0,21,0
+1,3,3,10,4,59,Current Smoker,Neither,5,Clear/White,0,9,0
+5,10,9,6,3,79,Never Smoked,Heart Disease,0,Yellow/Green,0,10,0
+4,8,2,9,2,38,Current Smoker,Heart Disease,8,Brown/Black,1,33,1
+10,4,9,1,5,73,Former Smoker,Neither,4,Red/Pink,0,12,0
+8,7,5,4,3,31,Current Smoker,Heart Disease,6,Yellow/Green,0,15,1
+1,10,8,4,4,54,Never Smoked,Diabetes,8,Clear/White,0,34,0
+10,2,2,9,1,73,Never Smoked,Diabetes,8,Clear/White,1,23,0
+1,7,6,5,4,40,Former Smoker,Neither,0,Clear/White,0,14,0
+4,5,3,5,6,75,Never Smoked,Diabetes,0,Clear/White,1,24,0
+8,5,10,6,7,96,Current Smoker,Diabetes,2,Clear/White,1,6,1
+5,6,5,1,3,66,Current Smoker,Both,5,Brown/Black,0,26,1
+2,9,8,1,6,41,Current Smoker,Neither,1,Clear/White,1,17,0
+6,6,10,9,6,87,Never Smoked,Heart Disease,9,Clear/White,1,31,1
+5,8,1,3,2,69,Current Smoker,Neither,10,Clear/White,0,38,0
+2,7,5,4,2,31,Current Smoker,Diabetes,0,Brown/Black,0,37,1
+3,9,3,1,6,51,Current Smoker,Both,0,Yellow/Green,0,36,1
+9,4,4,9,9,34,Former Smoker,Neither,4,Yellow/Green,0,18,0
+7,2,2,8,5,58,Never Smoked,Neither,3,Clear/White,0,14,0
+7,7,9,2,8,60,Never Smoked,Diabetes,0,Brown/Black,0,17,0
+6,6,3,8,9,49,Never Smoked,Diabetes,3,Clear/White,0,24,0
+8,1,2,7,10,30,Former Smoker,Neither,2,Brown/Black,0,34,0
+4,9,10,6,5,48,Never Smoked,Diabetes,1,Yellow/Green,0,10,0
+8,9,9,1,6,42,Former Smoker,Diabetes,8,Clear/White,1,36,1
+4,2,7,7,1,30,Former Smoker,Diabetes,10,Clear/White,1,31,0
+8,3,6,10,7,53,Never Smoked,Diabetes,0,Yellow/Green,0,39,0
+9,5,1,7,6,49,Current Smoker,Diabetes,6,Clear/White,0,34,1
+3,5,5,9,4,79,Current Smoker,Both,3,Brown/Black,0,12,1
+3,1,3,1,5,70,Never Smoked,Diabetes,4,Clear/White,1,8,0
+2,8,1,2,3,48,Never Smoked,Heart Disease,9,Clear/White,0,8,0
+10,8,4,9,6,99,Former Smoker,Neither,4,Clear/White,0,12,0
+3,4,2,9,8,50,Never Smoked,Both,0,Clear/White,1,20,0
+3,7,2,6,7,52,Former Smoker,Both,5,Clear/White,1,30,1
+5,10,3,6,3,27,Never Smoked,Diabetes,8,Clear/White,1,35,0
+5,3,8,4,10,99,Current Smoker,Neither,1,Yellow/Green,1,20,1
+2,6,8,4,4,62,Current Smoker,Heart Disease,6,Clear/White,0,6,1
+10,10,7,5,10,85,Never Smoked,Diabetes,5,Red/Pink,0,10,1
+6,10,6,3,9,75,Former Smoker,Neither,4,Yellow/Green,0,8,1
+5,9,9,1,6,72,Current Smoker,Diabetes,3,Brown/Black,0,14,1
+6,1,4,1,1,45,Former Smoker,Diabetes,3,Clear/White,1,18,0
+1,5,1,7,8,78,Never Smoked,Diabetes,5,Clear/White,0,7,0
+5,4,8,1,7,80,Never Smoked,Diabetes,3,Clear/White,0,14,0
+9,8,7,1,7,83,Current Smoker,Diabetes,4,Yellow/Green,1,10,1
+10,1,7,3,10,96,Never Smoked,Diabetes,5,Brown/Black,0,22,1
+2,9,3,10,7,75,Current Smoker,Diabetes,4,Clear/White,1,17,1
+1,6,4,4,7,44,Former Smoker,Heart Disease,6,Clear/White,1,17,0
+10,4,10,4,7,83,Current Smoker,Both,8,Brown/Black,0,16,1
+9,9,9,2,10,95,Current Smoker,Heart Disease,9,Clear/White,0,38,1
+10,5,6,1,6,33,Former Smoker,Diabetes,6,Yellow/Green,0,11,1
+9,5,5,3,7,25,Current Smoker,Diabetes,6,Yellow/Green,0,18,1
+9,5,3,4,3,53,Current Smoker,Heart Disease,3,Brown/Black,0,26,1
+6,1,9,3,2,87,Never Smoked,Heart Disease,0,Clear/White,0,19,0
+8,1,5,8,1,96,Former Smoker,Both,7,Clear/White,1,37,1
+1,8,5,10,10,80,Current Smoker,Heart Disease,3,Yellow/Green,0,15,1
+10,8,4,1,3,92,Former Smoker,Both,0,Brown/Black,1,17,1
+4,6,4,2,7,59,Former Smoker,Diabetes,4,Clear/White,0,8,0
+1,4,1,7,2,27,Current Smoker,Neither,7,Clear/White,0,20,0
+8,2,7,4,8,31,Never Smoked,Neither,3,Yellow/Green,1,12,0
+1,2,9,8,6,51,Former Smoker,Neither,7,Brown/Black,0,9,0
+3,9,3,3,2,25,Current Smoker,Neither,7,Brown/Black,0,19,0
+4,5,2,6,9,95,Former Smoker,Diabetes,2,Red/Pink,0,18,1
+8,4,3,9,7,68,Never Smoked,Neither,8,Clear/White,1,7,0
+6,10,1,1,10,65,Never Smoked,Heart Disease,2,Clear/White,0,24,0
+10,1,6,1,5,99,Never Smoked,Heart Disease,0,Yellow/Green,0,20,0
+7,7,7,8,10,66,Current Smoker,Neither,1,Brown/Black,0,10,1
+8,3,2,3,4,57,Current Smoker,Heart Disease,5,Clear/White,1,17,0
+2,6,8,5,7,74,Never Smoked,Both,9,Clear/White,1,26,0
+10,5,6,1,6,87,Current Smoker,Diabetes,1,Yellow/Green,0,18,1
+8,5,4,5,9,61,Never Smoked,Neither,5,Clear/White,1,15,0
+3,5,5,6,3,83,Current Smoker,Neither,0,Clear/White,0,13,0
+7,1,8,8,7,72,Never Smoked,Diabetes,10,Yellow/Green,0,20,1
+3,1,3,3,6,29,Former Smoker,Heart Disease,0,Yellow/Green,0,37,0
+7,3,3,3,8,72,Never Smoked,Diabetes,4,Yellow/Green,0,23,0
+2,10,4,10,5,27,Never Smoked,Diabetes,9,Clear/White,0,7,0
+10,4,1,9,3,71,Current Smoker,Heart Disease,10,Yellow/Green,0,17,1
+6,5,9,4,3,86,Current Smoker,Diabetes,8,Yellow/Green,0,35,1
+3,2,8,4,3,38,Current Smoker,Heart Disease,7,Yellow/Green,1,8,1
+3,8,8,7,2,87,Current Smoker,Heart Disease,2,Yellow/Green,0,40,1
+9,2,10,2,8,85,Current Smoker,Diabetes,2,Clear/White,0,38,1
+7,9,6,8,2,55,Current Smoker,Both,0,Clear/White,1,7,1
+5,2,7,6,5,41,Former Smoker,Heart Disease,2,Clear/White,0,37,0
+10,9,6,3,1,48,Never Smoked,Diabetes,10,Clear/White,0,14,0
+7,7,9,9,6,47,Never Smoked,Heart Disease,0,Yellow/Green,1,32,1
+9,8,3,5,6,74,Never Smoked,Both,7,Brown/Black,0,16,1
+1,2,3,8,3,94,Former Smoker,Both,0,Yellow/Green,0,16,0
+7,7,3,7,8,51,Never Smoked,Neither,4,Yellow/Green,0,21,0
+6,6,10,8,1,39,Former Smoker,Heart Disease,8,Clear/White,1,28,0
+10,4,3,7,1,74,Former Smoker,Heart Disease,6,Clear/White,0,6,0
+9,7,9,3,6,60,Former Smoker,Diabetes,3,Clear/White,1,20,1
+1,4,4,2,10,32,Never Smoked,Heart Disease,10,Clear/White,0,10,0
+4,2,7,7,1,27,Former Smoker,Neither,8,Clear/White,0,14,0
+9,10,9,3,6,86,Never Smoked,Both,8,Yellow/Green,1,14,1
+4,7,7,3,1,71,Never Smoked,Both,1,Red/Pink,0,17,0
+10,8,9,2,8,85,Current Smoker,Neither,9,Clear/White,0,14,1
+3,2,3,4,5,56,Current Smoker,Heart Disease,9,Clear/White,0,8,0
+9,5,4,8,8,37,Former Smoker,Heart Disease,10,Yellow/Green,1,9,1
+2,1,8,1,6,25,Former Smoker,Neither,5,Clear/White,0,6,0
+4,7,6,1,1,58,Never Smoked,Diabetes,3,Brown/Black,0,17,0
+6,8,5,5,5,86,Former Smoker,Both,7,Yellow/Green,0,38,1
+2,6,4,5,8,95,Former Smoker,Neither,10,Brown/Black,1,8,1
+8,5,8,1,3,55,Never Smoked,Neither,6,Clear/White,0,38,0
+8,6,1,6,6,88,Former Smoker,Heart Disease,6,Yellow/Green,0,26,1
+1,2,9,1,5,49,Former Smoker,Both,10,Clear/White,0,21,0
+3,1,1,5,6,62,Never Smoked,Heart Disease,9,Yellow/Green,0,22,0
+10,7,8,9,10,38,Never Smoked,Neither,8,Clear/White,0,31,0
+9,7,4,5,3,32,Current Smoker,Diabetes,4,Clear/White,0,8,0
+5,10,9,6,7,78,Never Smoked,Both,5,Yellow/Green,0,18,1
+6,10,5,8,3,26,Current Smoker,Neither,0,Yellow/Green,1,24,1
+4,2,3,1,2,80,Former Smoker,Neither,5,Brown/Black,1,20,0
+10,2,9,2,10,85,Never Smoked,Diabetes,1,Yellow/Green,0,32,0
+2,1,9,9,5,46,Never Smoked,Neither,5,Yellow/Green,1,7,0
+8,10,4,3,10,59,Never Smoked,Neither,8,Clear/White,0,24,0
+6,8,4,6,4,40,Former Smoker,Both,7,Yellow/Green,1,18,1
+5,8,8,5,8,74,Current Smoker,Both,8,Yellow/Green,0,15,1
+9,1,2,2,6,67,Former Smoker,Both,9,Brown/Black,0,14,1
+1,8,9,7,2,41,Former Smoker,Heart Disease,7,Brown/Black,1,20,1
+5,9,6,4,2,82,Never Smoked,Diabetes,2,Clear/White,1,35,0
+6,4,9,1,6,26,Current Smoker,Both,7,Brown/Black,0,17,1
+5,1,8,4,1,28,Former Smoker,Heart Disease,5,Clear/White,0,31,0
+6,1,7,6,9,63,Never Smoked,Heart Disease,5,Clear/White,0,15,0
+6,3,1,7,7,30,Former Smoker,Diabetes,5,Yellow/Green,0,8,0
+7,5,3,7,7,93,Former Smoker,Diabetes,2,Clear/White,0,7,0
+4,5,2,7,3,93,Never Smoked,Neither,9,Yellow/Green,0,7,0
+8,9,5,3,3,44,Never Smoked,Heart Disease,0,Clear/White,1,15,0
+7,10,5,6,3,88,Current Smoker,Both,3,Clear/White,0,14,1
+9,2,5,8,3,40,Former Smoker,Diabetes,9,Yellow/Green,0,25,1
+7,2,4,4,3,75,Never Smoked,Heart Disease,5,Yellow/Green,0,27,0
+3,6,5,8,4,61,Never Smoked,Both,10,Brown/Black,0,7,1
+3,9,3,2,6,97,Current Smoker,Heart Disease,9,Yellow/Green,0,11,1
+8,1,1,10,5,93,Current Smoker,Diabetes,1,Yellow/Green,0,12,1
+5,9,5,9,10,66,Never Smoked,Neither,6,Clear/White,1,19,0
+4,9,9,9,10,81,Current Smoker,Heart Disease,6,Clear/White,1,9,1
+8,9,9,8,8,90,Never Smoked,Both,10,Clear/White,0,9,1
+6,5,4,10,1,33,Former Smoker,Diabetes,3,Yellow/Green,0,38,0
+2,9,3,10,9,88,Current Smoker,Neither,3,Yellow/Green,0,30,1
+4,4,1,1,2,46,Former Smoker,Both,0,Clear/White,1,10,0
+4,2,2,2,1,58,Former Smoker,Both,1,Yellow/Green,1,15,0
+6,6,8,6,3,79,Former Smoker,Both,8,Yellow/Green,0,14,1
+6,4,1,10,4,53,Never Smoked,Heart Disease,9,Clear/White,0,29,0
+1,6,8,5,6,62,Former Smoker,Diabetes,7,Clear/White,1,18,1
+8,3,7,9,10,42,Former Smoker,Both,7,Brown/Black,0,9,1
+6,6,8,5,5,95,Former Smoker,Heart Disease,8,Yellow/Green,0,27,1
+3,2,6,2,4,89,Never Smoked,Diabetes,6,Brown/Black,1,15,0
+9,2,9,10,8,25,Former Smoker,Diabetes,8,Clear/White,1,12,1
+2,9,3,4,4,28,Former Smoker,Heart Disease,9,Red/Pink,0,15,0
+8,7,10,9,2,28,Current Smoker,Heart Disease,1,Clear/White,0,17,1
+10,3,4,1,2,51,Never Smoked,Both,5,Clear/White,0,14,0
+3,1,6,1,3,67,Former Smoker,Diabetes,2,Red/Pink,0,11,0
+5,8,8,7,8,83,Current Smoker,Neither,10,Clear/White,0,15,1
+6,6,5,3,8,56,Never Smoked,Heart Disease,5,Yellow/Green,0,6,0
+10,7,3,10,8,57,Never Smoked,Diabetes,2,Clear/White,1,28,0
+6,9,6,2,9,52,Never Smoked,Diabetes,7,Yellow/Green,1,10,1
+4,5,4,9,7,79,Never Smoked,Both,10,Brown/Black,0,7,1
+3,1,9,3,2,84,Never Smoked,Neither,3,Clear/White,0,22,0
+4,10,3,2,8,94,Never Smoked,Both,9,Yellow/Green,0,28,1
+1,7,4,8,7,86,Former Smoker,Neither,5,Clear/White,0,31,0
+4,5,7,10,8,58,Former Smoker,Neither,8,Yellow/Green,0,17,1
+1,3,7,6,3,80,Former Smoker,Heart Disease,1,Clear/White,0,10,0
+1,9,4,6,7,37,Former Smoker,Diabetes,1,Clear/White,1,26,0
+10,1,6,10,2,80,Current Smoker,Diabetes,6,Clear/White,0,24,1
+6,1,3,7,9,42,Former Smoker,Diabetes,1,Clear/White,1,11,0
+5,1,6,7,3,78,Never Smoked,Neither,1,Brown/Black,1,35,0
+4,3,2,6,10,67,Former Smoker,Diabetes,3,Clear/White,0,8,0
+3,6,8,4,6,63,Former Smoker,Heart Disease,8,Clear/White,0,40,1
+1,10,2,9,2,85,Never Smoked,Neither,7,Clear/White,1,33,0
+6,3,7,6,2,66,Former Smoker,Neither,1,Clear/White,1,24,0
+2,8,9,4,5,42,Former Smoker,Neither,7,Yellow/Green,0,37,0
+8,10,1,3,5,47,Former Smoker,Neither,3,Red/Pink,0,26,0
+10,2,8,4,9,78,Current Smoker,Heart Disease,1,Clear/White,0,10,1
+5,9,7,3,2,54,Former Smoker,Diabetes,10,Brown/Black,1,16,1
+7,3,6,2,7,82,Never Smoked,Heart Disease,9,Yellow/Green,0,7,0
+10,5,6,5,5,92,Never Smoked,Diabetes,6,Clear/White,0,15,0
+2,10,6,2,6,91,Former Smoker,Heart Disease,5,Yellow/Green,1,27,1
+8,8,9,6,8,95,Former Smoker,Both,9,Yellow/Green,0,15,1
+2,2,2,3,10,42,Former Smoker,Both,4,Yellow/Green,0,13,0
+4,6,1,6,4,31,Never Smoked,Both,10,Brown/Black,0,20,0
+1,5,6,10,7,64,Never Smoked,Both,0,Clear/White,1,34,0
+5,10,10,9,8,94,Current Smoker,Neither,1,Brown/Black,0,7,1
+9,9,8,1,2,89,Current Smoker,Neither,7,Yellow/Green,0,15,1
+1,5,3,6,4,92,Current Smoker,Heart Disease,0,Clear/White,0,9,0
+9,2,10,9,8,73,Never Smoked,Heart Disease,2,Yellow/Green,0,24,1
+8,5,1,4,2,76,Current Smoker,Both,1,Clear/White,0,8,1
+6,4,9,2,9,53,Former Smoker,Diabetes,4,Red/Pink,0,23,1
+7,7,1,4,5,45,Former Smoker,Both,3,Yellow/Green,0,12,1
+3,6,3,1,10,33,Never Smoked,Heart Disease,6,Clear/White,1,10,0
+1,2,8,3,6,71,Current Smoker,Both,4,Clear/White,1,37,0
+5,5,3,10,6,66,Former Smoker,Heart Disease,7,Yellow/Green,0,6,1
+2,7,4,9,8,75,Never Smoked,Both,3,Clear/White,0,16,0
+5,7,8,10,5,80,Current Smoker,Diabetes,5,Clear/White,0,6,1
+8,5,1,5,10,75,Former Smoker,Both,3,Clear/White,1,17,1
+9,9,6,6,3,94,Current Smoker,Diabetes,1,Clear/White,0,18,1
+2,4,1,3,4,44,Never Smoked,Diabetes,0,Clear/White,0,13,0
+3,3,1,5,6,51,Current Smoker,Heart Disease,0,Clear/White,0,9,0
+3,4,8,8,1,62,Never Smoked,Diabetes,7,Clear/White,0,15,0
+1,5,4,6,3,96,Current Smoker,Neither,3,Yellow/Green,0,23,0
+8,6,1,4,3,89,Former Smoker,Neither,4,Yellow/Green,0,29,0
+6,3,10,2,5,78,Never Smoked,Neither,10,Clear/White,0,18,0
+8,2,7,9,6,48,Never Smoked,Heart Disease,7,Clear/White,1,20,0
+9,4,5,1,8,71,Never Smoked,Neither,6,Yellow/Green,0,10,0
+5,5,5,1,8,95,Current Smoker,Heart Disease,7,Clear/White,0,12,1
+3,4,1,4,5,87,Current Smoker,Heart Disease,7,Clear/White,0,9,0
+5,3,10,7,6,81,Former Smoker,Neither,5,Clear/White,0,11,0
+5,8,6,1,1,79,Never Smoked,Diabetes,9,Brown/Black,0,11,0
+5,10,9,9,4,84,Never Smoked,Both,1,Yellow/Green,0,18,1
+3,4,9,4,8,86,Current Smoker,Heart Disease,5,Yellow/Green,0,19,1
+10,2,8,3,9,54,Current Smoker,Neither,0,Yellow/Green,0,38,0
+4,2,5,1,10,46,Former Smoker,Heart Disease,0,Yellow/Green,0,10,0
+9,1,1,10,3,99,Former Smoker,Diabetes,10,Clear/White,0,21,1
+10,4,9,4,3,53,Current Smoker,Diabetes,2,Yellow/Green,1,31,1
+9,10,1,9,7,65,Never Smoked,Neither,2,Clear/White,0,19,0
+2,9,8,10,1,66,Former Smoker,Heart Disease,10,Yellow/Green,0,12,1
+8,7,5,6,4,89,Current Smoker,Both,4,Yellow/Green,0,12,1
+8,10,3,6,3,55,Current Smoker,Both,0,Yellow/Green,0,6,1
+7,7,7,1,9,54,Never Smoked,Heart Disease,9,Clear/White,0,13,0
+8,7,7,10,3,42,Current Smoker,Heart Disease,5,Clear/White,0,27,1
+3,8,9,2,9,41,Current Smoker,Heart Disease,6,Yellow/Green,1,7,1
+6,1,7,6,10,62,Former Smoker,Neither,9,Yellow/Green,0,11,1
+1,10,3,2,5,38,Current Smoker,Diabetes,10,Brown/Black,0,25,1
+7,10,1,3,7,80,Current Smoker,Both,2,Clear/White,1,29,1
+1,8,8,4,4,46,Former Smoker,Neither,3,Yellow/Green,1,16,0
+9,4,3,5,7,91,Never Smoked,Heart Disease,9,Yellow/Green,0,24,1
+1,4,8,9,9,80,Never Smoked,Heart Disease,10,Brown/Black,0,15,1
+1,4,8,4,2,43,Former Smoker,Diabetes,9,Yellow/Green,0,9,1
+7,6,5,9,8,81,Former Smoker,Heart Disease,9,Yellow/Green,0,15,1
+2,7,1,10,9,68,Never Smoked,Neither,9,Yellow/Green,0,19,0
+5,6,10,3,10,59,Never Smoked,Neither,9,Yellow/Green,0,38,0
+8,1,7,8,10,25,Never Smoked,Diabetes,2,Red/Pink,1,7,0
+8,8,10,1,9,76,Never Smoked,Neither,0,Clear/White,0,18,0
+3,10,5,9,10,94,Never Smoked,Both,7,Clear/White,0,13,1
+7,7,8,9,7,61,Former Smoker,Neither,9,Brown/Black,0,18,1
+3,6,9,10,3,89,Current Smoker,Neither,9,Yellow/Green,1,6,1
+6,6,7,2,9,75,Never Smoked,Neither,1,Yellow/Green,0,13,0
+6,5,7,4,3,25,Never Smoked,Both,0,Clear/White,0,31,0
+3,6,1,8,6,45,Current Smoker,Heart Disease,7,Clear/White,0,19,0
+7,9,4,7,4,77,Current Smoker,Neither,6,Yellow/Green,0,16,1
+3,10,2,1,2,40,Current Smoker,Diabetes,6,Yellow/Green,0,12,1
+8,9,2,5,5,85,Current Smoker,Both,3,Clear/White,0,13,1
+10,10,2,7,7,78,Current Smoker,Diabetes,10,Clear/White,0,15,1
+4,8,4,4,7,64,Current Smoker,Neither,8,Brown/Black,0,32,1
+1,10,1,1,6,50,Former Smoker,Diabetes,5,Clear/White,0,39,0
+4,9,4,9,9,89,Current Smoker,Neither,1,Brown/Black,0,16,1
+7,10,2,5,9,98,Current Smoker,Both,0,Clear/White,0,15,1
+4,8,5,2,1,88,Former Smoker,Diabetes,0,Yellow/Green,0,32,0
+6,8,3,8,4,67,Current Smoker,Diabetes,8,Brown/Black,0,16,1
+9,1,8,2,9,41,Never Smoked,Neither,3,Yellow/Green,0,19,0
+1,10,4,3,10,83,Never Smoked,Neither,4,Clear/White,1,11,0
+5,5,1,10,4,47,Current Smoker,Heart Disease,2,Yellow/Green,0,27,1
+7,4,1,1,6,31,Former Smoker,Neither,3,Clear/White,0,18,0
+1,2,10,2,1,68,Never Smoked,Neither,7,Clear/White,0,30,0
+4,8,3,7,3,77,Former Smoker,Heart Disease,3,Red/Pink,1,29,1
+6,3,9,10,2,95,Never Smoked,Neither,8,Yellow/Green,1,11,0
+2,4,7,2,5,58,Current Smoker,Neither,8,Yellow/Green,0,25,0
+10,7,2,6,5,70,Former Smoker,Heart Disease,5,Clear/White,0,30,1
+5,10,9,3,10,92,Former Smoker,Both,1,Clear/White,0,14,1
+10,9,10,4,6,40,Former Smoker,Both,9,Clear/White,0,10,1
+1,2,2,8,9,95,Never Smoked,Neither,10,Yellow/Green,1,6,0
+6,3,3,3,10,43,Never Smoked,Neither,6,Yellow/Green,0,16,0
+6,4,10,10,4,26,Never Smoked,Heart Disease,8,Yellow/Green,0,14,0
+4,10,2,6,9,34,Current Smoker,Heart Disease,5,Brown/Black,1,19,1
+8,1,3,1,6,74,Never Smoked,Both,2,Clear/White,1,10,0
+4,7,6,7,4,36,Current Smoker,Diabetes,6,Clear/White,0,33,0
+8,2,9,8,10,94,Former Smoker,Neither,4,Clear/White,0,12,0
+8,5,9,8,8,46,Former Smoker,Diabetes,0,Clear/White,0,11,1
+5,1,7,3,9,56,Current Smoker,Diabetes,2,Clear/White,1,17,1
+4,3,3,10,7,25,Never Smoked,Heart Disease,4,Red/Pink,1,17,0
+2,2,4,1,10,78,Current Smoker,Neither,6,Clear/White,0,11,0
+3,1,6,9,1,82,Former Smoker,Neither,2,Brown/Black,0,12,0
+3,7,5,6,1,94,Former Smoker,Heart Disease,5,Clear/White,1,10,0
+4,5,2,9,10,42,Current Smoker,Diabetes,4,Red/Pink,0,25,1
+4,1,6,7,4,30,Never Smoked,Heart Disease,0,Yellow/Green,0,28,0
+10,6,3,1,5,69,Never Smoked,Both,9,Brown/Black,1,17,1
+5,5,8,1,10,47,Current Smoker,Neither,5,Clear/White,0,25,0
+4,3,2,6,7,47,Current Smoker,Both,7,Yellow/Green,0,26,1
+10,7,1,5,10,50,Never Smoked,Heart Disease,0,Brown/Black,1,9,1
+8,10,9,9,4,31,Former Smoker,Neither,1,Clear/White,1,39,0
+6,9,3,2,8,68,Current Smoker,Both,3,Clear/White,0,31,1
+6,9,1,8,5,51,Never Smoked,Both,1,Clear/White,0,10,0
+8,9,7,5,7,50,Never Smoked,Diabetes,10,Brown/Black,0,10,1
+7,2,10,2,10,60,Former Smoker,Neither,8,Yellow/Green,0,9,1
+10,3,5,10,7,79,Former Smoker,Both,9,Yellow/Green,0,9,1
+10,7,5,6,4,88,Former Smoker,Both,7,Clear/White,1,27,1
+8,5,1,10,5,81,Former Smoker,Diabetes,7,Clear/White,0,17,1
+2,2,9,8,3,93,Former Smoker,Both,3,Brown/Black,0,29,1
+9,3,7,4,6,85,Current Smoker,Both,4,Clear/White,0,27,1
